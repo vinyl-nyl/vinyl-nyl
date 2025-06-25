@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:fafafa&height=120&text=Junil's%20GitHub🔨&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
@@ -8,13 +8,13 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
   <div style="margin: 0 auto; text-align: center;">
     <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/Combine-535353?style=flat&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/CoreData-1E1E1E?style=flat&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Combine-535353?style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/CoreData-1E1E1E?style=for-the-badge&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   </div>
 </div>
 
