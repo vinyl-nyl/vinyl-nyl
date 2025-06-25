@@ -1,33 +1,40 @@
-<!-- header -->
 <div align="center">
-  <h1>Junil Lee</h1>
-  <p>iOS Developer · Swift · SwiftUI · UIKit · Combine</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:fafafa&height=120&text=Junil's%20GitHub🔨&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
-## 🛠 Tech Stack
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Combine-535353?style=flat&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/CoreData-1E1E1E?style=flat&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
+  <div style="margin: 0 auto; text-align: center;">
+    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Combine-535353?style=flat&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/CoreData-1E1E1E?style=flat&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  </div>
 </div>
 
----
-
-## 💻 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [PickaView](https://github.com/TeddKo/PickaView) | AVKit 기반 커스텀 영상 플레이어 앱 | Swift, AVKit, Combine, CoreData |
-
----
-
-## 📈 GitHub Stats
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinyl-nyl&show_icons=true&hide_title=true&hide_border=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinyl-nyl&layout=compact&hide_border=true&theme=default" height="150"/>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact Me</h2>
+  <div>
+    <a href="https://velog.io/@vinyl_nyl/posts">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
+    </a>
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=vinyl-nyl&custom_title=vinyl-nyl's%20Github%20Stats&bg_color=180,000000,&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinyl-nyl&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
+  </div>
 </div>
