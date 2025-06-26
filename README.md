@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Combine-535353?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinyl-nyl&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
 </div>
 
 <br>
@@ -32,5 +33,4 @@
 ### 🏅 Stats
 <div style="text-align: left;">
   <img src="https://github-readme-stats.vercel.app/api?username=vinyl-nyl&custom_title=vinyl-nyl's%20Github%20Stats&bg_color=180,000000,&title_color=000000&text_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinyl-nyl&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
 </div>
