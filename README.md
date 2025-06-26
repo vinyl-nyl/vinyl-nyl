@@ -2,6 +2,7 @@
 - 🍏 My name is **Junil Lee**
 - 🌱 I’m currently learning **Swift**
 - 🌿 I aim to implement **clean** and **practical** code
+- <br>
 
 <!-- 좌측 정렬 타이틀 -->
 ### 🛠️ Stacks
@@ -16,6 +17,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinyl-nyl&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
 </div>
+<br>
 
 ### 🧑‍💻 Contact Me
 
@@ -24,6 +26,7 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
   </a>
 </div>
+<br>
 
 ### 🏅 Stats
 <div style="text-align: left;">
