@@ -4,9 +4,7 @@
 - 🌿 I aim to implement **clean** and **practical** code
 <br>
 
-<!-- 좌측 정렬 타이틀 -->
 ### 🛠️ Stacks
-
 <div style="text-align: left;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,firebase,figma,py,swift"/>
