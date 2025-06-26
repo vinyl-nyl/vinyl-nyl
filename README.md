@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/Combine-535353?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,apple,firebase,figma" />
+  </a>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinyl-nyl&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
 </div>
