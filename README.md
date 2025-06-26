@@ -10,11 +10,11 @@
     <img src="https://skillicons.dev/icons?i=apple,firebase,figma,obsidian,postman,sqlite,swift"/>
   </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinyl-nyl&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinyl-nyl&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" />
 </div>
 <br>
 
 ### 🏅 Stats
 <div style="text-align: left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinyl-nyl&custom_title=vinyl-nyl's%20Github%20Stats&bg_color=180,000000,&title_color=000000&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinyl-nyl&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" />
 </div>
