@@ -11,7 +11,3 @@
   </a>
 </div>
 <br>
-
-### 🏅 Stats
-<div style="text-align: left">
-</div>
