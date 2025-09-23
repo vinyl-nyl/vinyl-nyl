@@ -2,7 +2,6 @@
 - 🍏 My name is **Junil Lee**
 - 🌱 I’m currently learning **Swift**
 - 🌿 I aim to implement **clean** and **practical** code
-<br>
 
 ### 🛠️ Stacks
 <div style="text-align: left">
